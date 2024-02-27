@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 #myVideo{
-    max-width: 100%;
+    max-width: 200px;
     max-height: 100%;
     border: 2px solid blue;
 }
